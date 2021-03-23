@@ -4,6 +4,7 @@
   "description": "A simple dashboard made in HTML and CSS. Mobile responsiveness coming soon.",
   "main": "app.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
